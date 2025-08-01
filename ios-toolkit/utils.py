@@ -3,7 +3,7 @@ from getpass import getpass
 
 # Prompts user for zone number, builds path to zone file
 def get_device_list():
-    zone_path=('C:/python scripts/library/device/') + input \
+    zone_path=('c:/python scripts/library/device/') + input \
     ('Enter zone number to load file for host addresses: ').strip() + ('.txt')
 
     # Loads and sanitizes lines from file (typically IP addresses)
