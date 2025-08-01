@@ -53,5 +53,5 @@ See [LICENSE](LICENSE) for full terms.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/pynet-dev/ios-toolkit.git
-   cd ios-toolkit
+   git clone https://github.com/pynet-dev/pynet-ios-toolkit.git
+   cd pynet-ios-toolkit
