@@ -45,7 +45,7 @@ def run_ios_scp():
     # Module header: displays which operation is running when selected from driver script
     print("""
     --------------------
-    SCP Uploader v1.1.0
+    SCP Uploader v1.0.1
     --------------------
     """)
     # Check that the source files exists
