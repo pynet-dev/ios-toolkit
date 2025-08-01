@@ -7,7 +7,7 @@ import time
 import os
 
 # Define file transfer perameters: source and destination file names, direction, and target filesystem
-source_file = "c2960c405-universalk9-mz.152-7.E12.bin"
+source_file = "c:/python-scripts/ios-automation/bin/c2960c405-universalk9-mz.152-7.E12.bin"
 destination_file = "c2960c405-universalk9-mz.152-7.E12.bin"
 direction = "put"
 file_system = "flash:"
