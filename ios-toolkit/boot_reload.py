@@ -8,7 +8,7 @@ def run_boot_and_reload():
     # Module header: displays which operation is running when selected from driver script
     print("""
     ---------------------------------
-    Boot Path Update + Reload v1.0.1
+    Boot Path Update + Reload v1.0.0
     ---------------------------------
     """)
     # Define  device list, user credentials, and new boot path

@@ -6,9 +6,9 @@ import time
 def run_cleanup():
     # Module header: displays which operation is running when selected from driver script
     print("""
-    ----------------------
-    Filesystem Cleanup v1.0.1
-    ----------------------
+    --------------------------
+    Filesystem Cleanup v1.0.0
+    --------------------------
     """)
     print(f"\nWarning: Delete command is irreversible and will remove files from device filesystem.\n")
 

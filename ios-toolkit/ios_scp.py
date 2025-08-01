@@ -44,9 +44,9 @@ def upload_ios(ip, creds):
 def run_ios_scp():
     # Module header: displays which operation is running when selected from driver script
     print("""
-    -------------------
-    SCP Uploader v1.0.1
-    -------------------
+    --------------------
+    SCP Uploader v1.0.0
+    --------------------
     """)
     # Check that the source files exists
     if not os.path.isfile(source_file):
