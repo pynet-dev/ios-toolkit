@@ -41,7 +41,7 @@ To verify installed IOS versions:
 ## Disclaimer
 
 This project is intended for educational and internal lab use only.  
-It is not recommended for use in production environments without thorough testing and modification to suit your specific requirements.
+It is not recommended for use in production environments without proper testing and modification to suit your specific requirements.
 
 The author is not responsible for any damage, outages, or unintended behavior resulting from the use of this software.
 Use at your own risk.
