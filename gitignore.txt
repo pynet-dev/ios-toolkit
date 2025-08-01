@@ -1,0 +1,19 @@
+# Ignore compiled bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+.venv/
+.env
+
+# Ignore firmware binaries and large files
+*.bin
+
+# Ignore device-specific IP lists or sensitive data
+device/*.txt
+
+# Ignore editor and OS artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
