@@ -14,7 +14,7 @@ def run_verification():
     # Module header: displays which operation is running when selected from driver script
     print("""
     ------------------------
-    IOS Verification v1.0.0
+    IOS Verification v1.1.0
     ------------------------
     """)
 
