@@ -10,13 +10,13 @@ def run_cleanup():
     Filesystem Cleanup v1.0.0
     --------------------------
     """)
-    print(f"\nWarning: Delete command is irreversible and will remove files from device filesystem.\n")
+    print(f"Warning: Delete command is irreversible and will remove files from device filesystem.\n")
 
     # Define variables: device list, credentials, and cleanup command
     # Warning: Delete command is irreversible and will remove files from device filesystem.
     devices = get_device_list()
     creds = get_credentials()
-    cleanup_cmd = "del /for /recur c2960c405-universalk9-mz.152-7.E12.bin"
+    cleanup_cmd = "del /for /recur c2960c405-universalk9-mz.152-7.E10.bin"
 
     # Record start time for measuring runtime
     start = time.perf_counter()

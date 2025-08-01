@@ -12,7 +12,7 @@ def get_device_list():
     
 # Prompts user for credentials and returns them as a dictonary 
 def get_credentials():
-    username = input("Enter username: ")
+    username = input("\nEnter username: ")
     return {
         "username": username,
         "password": getpass("Enter password: ")
