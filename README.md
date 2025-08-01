@@ -15,8 +15,8 @@ This repository contains a suite of Python scripts designed to automate IOS upda
 
 | Script                                   | Description                                        |
 |------------------------------------------|----------------------------------------------------|
-| [`ios_scp.py`](ios-toolkit/ios-toolkit/ios_scp.py)               | Uploads IOS image to multiple devices via SCP      |
-| [`verification.py`](ios-toolkit/ios-toolkitverification.py)     | Checks current IOS version on all devices          |
+| [`ios_scp.py`](/ios-toolkit/ios_scp.py)               | Uploads IOS image to multiple devices via SCP      |
+| [`verification.py`](ios-toolkit/verification.py)     | Checks current IOS version on all devices          |
 | [`cleanup.py`](ios-toolkit/ios-toolkit/cleanup.py)               | Deletes old IOS images from device flash           |
 | [`boot_reload.py`](ios-toolkit/ios-toolkit/boot_reload.py)       | Sets new boot path and reloads devices             |
 | [`ios_toolkit.py`](ios-toolkit/ios-toolkit/ios_toolkit.py)       | Main driver script to launch update actions        |
