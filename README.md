@@ -26,7 +26,7 @@ This repository contains a suite of Python scripts designed to automate IOS upda
 
 Each script is standalone but can also be triggered from `ios_toolkit.py` for guided execution.
 
-To run SCP upload, for example:
+For example, run SCP upload:
 `python ios_scp.py`
 
 To verify installed IOS versions:
@@ -38,9 +38,13 @@ To verify installed IOS versions:
 - User credentials are collected at runtime for security.
 - Transfers are multi-threaded for improved performance and include verification after upload.
 
-## License
+## Disclaimer
 
-See [LICENSE](LICENSE) for full terms.
+This project is intended for educational and internal lab use only.  
+It is not recommended for use in production environments without thorough testing and modification to suit your specific requirements.
+
+The author is not responsible for any damage, outages, or unintended behavior resulting from the use of this software.
+Use at your own risk.
 
 ## Requirements
 
